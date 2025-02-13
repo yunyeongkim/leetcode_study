@@ -20,6 +20,29 @@ Explanation: The arrays we are merging are [] and [1].
 The result of the merge is [1].
 Note that because m = 0, there are no elements in nums1. The 0 is only there to ensure the merge result can fit in nums1.
 
+### Definition
+![[88_mergeSort_Definition.excalidraw]]
+- Merge 2 array `num1`, `num2`
+- Merge Index is given with `m`
+- Merge to `num1`
+- `m` + `n` = length
+- If `n = 0` ignore.
+- Non-Decreasing order
+- ! `m` = index   `n`= length
 
+### First Code
+```python
+class Solution:
 
+	def merge(self, nums1: list[int], m: int, nums2: list[int], n: int) -> None:
+		if n == 0:
+			return None
+		for i in range(m, m+n):
+			nums1[i] = nums2[m-i]
+			nums1.sort()
+# 100% beats.
+```
+
+### First Code Explain 
+![[MergeSort_codeExplain.excalidraw]]
 
