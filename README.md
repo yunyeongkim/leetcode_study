@@ -16,6 +16,9 @@ Welcome to the **LeetCode Study Group**, a collaborative space to enhance algori
 | ------------ | ----------- | ---------------------- |
 | Yunyeong Kim | Organizer   | yunyeong93@gmail.com   |
 | James Choi   | Participant | jameslol4177@gmail.com |
+| Daehyun Kim  | Participant | kimdhyungg@gmail.com   |
+| Yunho Jo     | Participant | jujo.dev@gmail.com     |
+| Jiheon       | Participant | jiheon2234@gmail.com   |
 
 
 > If you'd like to join the study, please contact the organizer at **yunyeong93@gmail.com**. 🎉
