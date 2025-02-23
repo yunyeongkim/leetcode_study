@@ -87,9 +87,10 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 
 ## **Current Study Progress**
 
-| Session | Date       | Problems Discussed                                                                                                                                                                                                                                                   | Presenter    |
-| ------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1       | 2025-02-22 | [561] [array partition](https://leetcode.com/problems/array-partition/description/) / [88] [Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/description/) / [53][ Maximm Subarray](https://leetcode.com/problems/maximum-subarray/description/) | Yunyeong Kim |
+| Session | Date       | Problems Discussed                                                                                                                                                                                                                                                   |
+| ------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | 2025-02-22 | [561] [array partition](https://leetcode.com/problems/array-partition/description/) / [88] [Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/description/) / [53][ Maximm Subarray](https://leetcode.com/problems/maximum-subarray/description/) |
+| 2       | 2025-03-01 | [169] [Majority Element](https://leetcode.com/problems/majority-element/) / [229] [Majority Element II](https://leetcode.com/problems/majority-element-ii/)/  [347] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-elements/)                   |
 
 
 ---
