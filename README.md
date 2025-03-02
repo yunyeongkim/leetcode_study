@@ -12,13 +12,12 @@ Welcome to the **LeetCode Study Group**, a collaborative space to enhance algori
 
 ## **Study Members**
 
-| Name         | Role        | Email Address          |
-| ------------ | ----------- | ---------------------- |
-| Yunyeong Kim | Organizer   | yunyeong93@gmail.com   |
-| James Choi   | Participant | jameslol4177@gmail.com |
-| Daehyun Kim  | Participant | kimdhyungg@gmail.com   |
-| Yunho Jo     | Participant | yujo.dev@gmail.com     |
-| Jiheon       | Participant | jiheon2234@gmail.com   |
+| Name         | Role        | Email Address        | Pullrequests |
+| ------------ | ----------- | -------------------- | ------------ |
+| Yunyeong Kim | Organizer   | yunyeong93@gmail.com | 2/2          |
+| Daehyun Kim  | Participant | kimdhyungg@gmail.com | 2/2          |
+| Yunho Jo     | Participant | yujo.dev@gmail.com   | 2/2          |
+| Jiheon       | Participant | jiheon2234@gmail.com | 2/2          |
 
 
 > If you'd like to join the study, please contact the organizer at **yunyeong93@gmail.com**. 🎉
@@ -87,10 +86,12 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 
 ## **Current Study Progress**
 
-| Session | Date       | Problems Discussed                                                                                                                                                                                                                                                   |
-| ------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1       | 2025-02-22 | [561] [array partition](https://leetcode.com/problems/array-partition/description/) / [88] [Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/description/) / [53][ Maximm Subarray](https://leetcode.com/problems/maximum-subarray/description/) |
-| 2       | 2025-03-01 | [169] [Majority Element](https://leetcode.com/problems/majority-element/) / [229] [Majority Element II](https://leetcode.com/problems/majority-element-ii/)/  [347] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-elements/)                   |
+| Session | Date       | Problems Discussed                                                                                                                                                                                                                                                          |
+| ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | 2025-02-22 | [561] [array partition](https://leetcode.com/problems/array-partition/description/) / [88] [Merge Sorted array](https://leetcode.com/problems/merge-sorted-array/description/) / [53][ Maximm Subarray](https://leetcode.com/problems/maximum-subarray/description/)        |
+| 2       | 2025-03-01 | [169] [Majority Element](https://leetcode.com/problems/majority-element/) / [229] [Majority Element II](https://leetcode.com/problems/majority-element-ii/)/  [347] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-elements/)                          |
+| 3       | 2025-03-08 | [463] [Island Perimeter](https://leetcode.com/problems/island-perimeter/)  [221] [Maximal Square](https://leetcode.com/problems/maximal-square/) / [1277] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) / |
+
 
 
 ---
