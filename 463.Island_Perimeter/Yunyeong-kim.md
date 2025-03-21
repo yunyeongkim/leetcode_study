@@ -31,8 +31,6 @@
 7. width and height don't exceed 100
 ![[image-3.png]]
 
-![[Drawing 2025-03-05 12.51.17.excalidraw]]
-
 ### First Solution
 ```python
 class Solution(object):
