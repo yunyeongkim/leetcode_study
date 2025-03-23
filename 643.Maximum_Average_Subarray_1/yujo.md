@@ -3,7 +3,6 @@
 ## 1. Definition
 
 - Given nums and k, we need to find and return the maximum average value of a contiguous subarray of length k in nums.
-- The result should be returned with 5 decimal places.
 
 ## 2. First Code(5 min)
 
