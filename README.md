@@ -94,6 +94,8 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 3       | 2025-03-08 | [463] [Island Perimeter](https://leetcode.com/problems/island-perimeter/)  [221] [Maximal Square](https://leetcode.com/problems/maximal-square/) / [1277] [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) /                                                       |
 | 4       | 2025-03-15 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
 | 5       | 2025-03-22 | [643] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) / [3] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) / [209] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |
+| 6       | 2025-03-29 | [496] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  / [739] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) / [84] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                                     |
+
 
 
 ---
