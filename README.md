@@ -19,6 +19,7 @@ Welcome to the **LeetCode Study Group**, a collaborative space to enhance algori
 | Yunho Jo     | Participant | yujo.dev@gmail.com   |
 | Jiheon       | Participant | jiheon2234@gmail.com |
 | Naeun Kim    | Participant | knae11@naver.com     |
+| Hanjun Kim   | Participant | hanjun0126@gmail.com |
 
 
 > If you'd like to join the study, please contact the organizer at **yunyeong93@gmail.com**. 🎉
@@ -96,6 +97,7 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 5       | 2025-03-22 | [643] [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) / [3] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) / [209] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |
 | 6       | 2025-03-29 | [496] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)  / [739] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) / [84] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                                     |
 | 7       | 2025-04-5  | [1480] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) / [1732 ]  [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) / [560] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                   |
+| 8       | 2025-04-12 | Unsolved Problem  \|\| Retry solved Problem<br>                                                                                                                                                                                                                                                                                   |
 
 
 
