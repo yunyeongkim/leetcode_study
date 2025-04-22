@@ -99,6 +99,7 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 7       | 2025-04-5  | [1480] [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) / [1732 ]  [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) / [560] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                                   |
 | 8       | 2025-04-12 | Unsolved Problem  \|\| Retry solved Problem<br>                                                                                                                                                                                                                                                                                   |
 | 9       | 2025-04-19 | [121] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) / [860]  [Lemonade Change](https://leetcode.com/problems/lemonade-change/) / [406] [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)                                        |
+| 10      | 2025-04-26 | [401] [Binary Watch](https://leetcode.com/problems/binary-watch/) / [784] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) / [46] [Permutations](https://leetcode.com/problems/permutations/)                                                                                                    |
 
 
 
