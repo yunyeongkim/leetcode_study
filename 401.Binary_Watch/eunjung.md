@@ -77,7 +77,7 @@ function binaryWatch(turnedOn){
         }
     }
 
-    return console.log(timeCollect);
+    return timeCollect;
 }
 
 let turnedOn = 9;
@@ -138,7 +138,7 @@ function binaryWatch(turnedOn){
         }
     }
 
-    return console.log(timeCollect);
+    return timeCollect;
 }
 
 let turnedOn = 9;
@@ -169,7 +169,7 @@ function binaryWatch(turnedOn){
         }
     }
 
-    return console.log(timeCollect);
+    return timeCollect;
 }
 
 let turnedOn = 2;

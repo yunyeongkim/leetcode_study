@@ -23,7 +23,7 @@
         }
 ```
 
-2. isNaN() returns boolean value.
+2. isNaN() returns boolean value..
 	-  isNaN("a") // True
 	-  isNaN("1") // False
 
