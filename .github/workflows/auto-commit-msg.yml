@@ -1,0 +1,47 @@
+name: Rewrite Commit Message
+
+on:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+  add_codefile_modify_msgs:
+    if: false #Only set false when you want to disable this action.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set Git identity
+        run: |
+          git config --global user.name "leetcode-bot"
+          git config --global user.email "yunyeong93@gmail.com"
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install GitPython
+        run: pip install GitPython
+
+      - name: Extract code blocks from .md
+        run: python scripts/extract_codes.py
+
+      - name: Stage extracted code
+        run: git add codes/
+
+      - name: Rewrite commit message and force-push
+        run: python scripts/rewrite_commit_msg.py
+        env:
+          GH_PUSH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF: ${{ github.ref }}
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
