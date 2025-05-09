@@ -17,6 +17,7 @@
 > - The floor of n divided by 3
 > - Floor of n over 3
 
+
 ### First Code : 10 min
 ```python
 class Solution(object):
