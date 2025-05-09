@@ -31,12 +31,12 @@ class Solution(object):
             if counter[num] > flag:
                 return num
         return None
-# O(n) / O(n)
+# O(n) / O(n) .
 ```
 
 ### Solution 
 ```python
-# Boyer-Moore Voting Algorithm
+# Boyer-Moore Voting Algorithm.
 class Solution(object):
     def majorityElement(self, nums):
         count=0
