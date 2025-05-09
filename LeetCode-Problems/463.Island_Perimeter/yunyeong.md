@@ -6,7 +6,7 @@
 >  One cell is a square with side length 1. 
 >  The grid is rectangular, width and height don't exceed 100. Determine the perimeter of the island.
 >  > [!example] Base Image
->  > ![[image-2.png]]
+>  > ![[leetcode_study/lib/Excaildraw/yunyeongkim/image-2.png]]
 > 
 >  > [!example]+
 >  > **Input**: grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]\]
@@ -29,7 +29,7 @@
 5. The island doesn't have "lakes", meaning the water inside isn't connected to the water around the island.
 6. The grid is rectangular,
 7. width and height don't exceed 100
-![[image-3.png]]
+![[leetcode_study/lib/Excaildraw/yunyeongkim/image-3.png]]
 
 ### First Solution
 ```python

@@ -1,7 +1,7 @@
 > [!qustion]+
 > A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.
 > - For example, the below binary watch reads `"4:51"`.
-> ![[image-3.png]]
+> ![[leetcode_study/lib/Excaildraw/yunyeongkim/image-3.png]]
 > 
 > Given an integer `turnedOn` which represents the number of LEDs that are currently on (ignoring the PM), return _all possible times the watch could represent_. You may return the answer in **any order**.
 > 

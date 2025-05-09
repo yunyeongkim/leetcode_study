@@ -1,6 +1,6 @@
 > [!question] 
 > Given an `m x n` binary `matrix` filled with `0`'s and `1`'s, _find the largest square containing only_ `1`'s _and return its area_.
-> ![[image-1.png]]
+> ![[leetcode_study/lib/Excaildraw/yunyeongkim/image-1.png]]
 > > [!example]+
 > > **Input:** matrix = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]
 > > **Output:** 4
