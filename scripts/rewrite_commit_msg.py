@@ -55,7 +55,7 @@ def rewrite_message(repo, message):
     remote_url = f"https://x-access-token:{token}@github.com/{repo_url}.git"
     subprocess.run(["git", "push", remote_url, "HEAD:master", "--force"], check=True)
 
-if __name__ == "__master__":
+if __name__ == "__main__":
     set_remote_url_with_token()
     repo = Repo(".")
 
