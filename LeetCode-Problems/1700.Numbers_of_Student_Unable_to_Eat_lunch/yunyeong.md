@@ -72,3 +72,7 @@ class RecentCounter:
         return len(self.q)
 
 ```
+
+### Explain
+![[image-8.png]]
+![[933.Number_of_recent_calls.excalidraw]]
