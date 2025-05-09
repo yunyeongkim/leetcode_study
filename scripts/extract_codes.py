@@ -7,6 +7,7 @@ from collections import defaultdict
 SCRIPT_DIR = Path(__file__).resolve().parent
 BASE_DIR = SCRIPT_DIR.parent
 OUTPUT_DIR = BASE_DIR / "codes"
+PROBLEMS_ROOT = BASE_DIR / "LeetCode-Problems"
 
 EXT_MAP = {
     'python': 'py', 'py': 'py',
@@ -33,7 +34,7 @@ def extract_code_blocks(content: str):
     return re.findall(r"```(\w+)\n(.*?)```", content, re.DOTALL)
 
 def export_codes(target_name=None, debug=False):
-    for problem_dir in BASE_DIR.iterdir():
+    for problem_dir in PROBLEMS_ROOT.iterdir():
         if not problem_dir.is_dir():
             continue
 
