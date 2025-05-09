@@ -10,7 +10,8 @@ permissions:
 
 jobs:
   add_codefile_modify_msgs:
-    if: false #Only set false when you want to disable this action.
+    # when you want to disable this action.
+    # if: false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
