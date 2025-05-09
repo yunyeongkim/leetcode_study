@@ -31,7 +31,7 @@ class Solution(object):
             if counter[num] > flag:
                 return num
         return None
-# O(n) / O(n)
+# O(n) / O(n) .
 ```
 
 ### Solution 
