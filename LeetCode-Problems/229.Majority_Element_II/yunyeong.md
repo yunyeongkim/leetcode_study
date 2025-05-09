@@ -35,7 +35,7 @@ class Solution(object):
             if counter[num] > flag:
                 arr.append(num)
         return arr
-# O(n) / O(n) - Dict ~
+# O(n) / O(n) - Dict
 ```
 
 ### Solution
