@@ -36,7 +36,7 @@ class Solution(object):
 
 ### Solution 
 ```python
-# Boyer-Moore Voting Algorithm
+# Boyer-Moore Voting Algorithm.
 class Solution(object):
     def majorityElement(self, nums):
         count=0
