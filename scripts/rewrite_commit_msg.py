@@ -21,7 +21,11 @@ def extract_problems(repo):
     problems = []
     for path in changed:
         parts = Path(path).parts
-        if len(parts) == 2 and parts[1].endswith('.md'):
+        if (
+            len(parts) == 3 
+            and parts[0] == "LeetCode-Problems" 
+            and parts[2].endswith(".md")
+            ):
             problems.append(parts[0])
     return sorted(set(problems))
 
