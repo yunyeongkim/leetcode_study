@@ -17,6 +17,7 @@
 > - The floor of n divided by 3
 > - Floor of n over 3
 
+
 ### First Code : 10 min
 ```python
 class Solution(object):
@@ -34,7 +35,7 @@ class Solution(object):
             if counter[num] > flag:
                 arr.append(num)
         return arr
-# O(n) / O(n) - Dict
+# O(n) / O(n) - Dict ~
 ```
 
 ### Solution
