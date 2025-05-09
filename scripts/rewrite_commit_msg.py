@@ -73,9 +73,8 @@ if __name__ == "__main__":
                 problems = extract_problems(repo)
                 author = get_last_author(repo)
                 message = f"{author} - {week} ({', '.join(problems)})"
-
-            print("🔁 Rewriting commit message to:", message)
-            rewrite_message(repo, message)
+                print("🔁 Rewriting commit message to:", message)
+                rewrite_message(repo, message)
         else:
             print("⏭ Skipping amend: multiple commits detected.")
     else:
