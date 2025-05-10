@@ -33,4 +33,8 @@ class Solution {
         doPermute(result, s, index+1);
         
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d06107e (naeun - week12 784)
