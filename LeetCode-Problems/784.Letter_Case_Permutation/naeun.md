@@ -19,6 +19,9 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 - need to keep in mind of java transition function of character and string.
 - hard to deal with original String.
 
+### check for improvement
+- needed help to calculate complexity both in time and space.
+
 ## Code
 ### My solution
 
