@@ -28,7 +28,11 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 - space complexity: O(n * 2^n) - n for stack and 2^n for each step having 2 options.
 
 ![complexity](../../lib/images/naeun/784-complexity.png)
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+>>>>>>> 770833e (naeun - week12 (784.Letter_Case_Permutation))
+>>>>>>> 11509aa (naeun - week12 (784.Letter_Case_Permutation))
 ## Logic
 - recursively check
     - check out of index
@@ -46,7 +50,11 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+>>>>>>> 770833e (naeun - week12 (784.Letter_Case_Permutation))
+>>>>>>> 11509aa (naeun - week12 (784.Letter_Case_Permutation))
 - hard to deal with original String.
 
 ### check for improvement
@@ -67,7 +75,11 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 ### My solution
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
 =======
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+>>>>>>> 770833e (naeun - week12 (784.Letter_Case_Permutation))
+>>>>>>> 11509aa (naeun - week12 (784.Letter_Case_Permutation))
 
 ```java
 class Solution {
@@ -114,7 +126,11 @@ class Solution {
 =======
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
 =======
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+>>>>>>> 770833e (naeun - week12 (784.Letter_Case_Permutation))
+>>>>>>> 11509aa (naeun - week12 (784.Letter_Case_Permutation))
 
 ### let gpt improve my code
 ```java
@@ -195,4 +211,8 @@ class Solution {
 =======
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
 =======
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+>>>>>>> 770833e (naeun - week12 (784.Letter_Case_Permutation))
+>>>>>>> 11509aa (naeun - week12 (784.Letter_Case_Permutation))

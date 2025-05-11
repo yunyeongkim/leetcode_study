@@ -41,4 +41,8 @@ class Solution {
 >>>>>>> d06107e (naeun - week12 784)
 =======
 }
+<<<<<<< HEAD
 >>>>>>> origin
+=======
+>>>>>>> 770833e (naeun - week12 (784.Letter_Case_Permutation))
+>>>>>>> 11509aa (naeun - week12 (784.Letter_Case_Permutation))
