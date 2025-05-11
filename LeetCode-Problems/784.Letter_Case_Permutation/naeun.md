@@ -1,8 +1,12 @@
 Q: https://leetcode.com/problems/letter-case-permutation/description/
 ## Complexity
+<<<<<<< HEAD
 - time complexity: O(n* 2^n) - n for converting array to string and 2^n for each step having 2 options.
 - space complexity: O(n * 2^n) - n for stack and 2^n for each step having 2 options.
 
+=======
+- 
+>>>>>>> 943192a (naeun week12 784)
 ![complexity](../../lib/images/naeun/784-complexity.png)
 ## Logic
 - recursively check
@@ -17,6 +21,7 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 - duplicated elements were added.
 - have to do recursion with next index even if it is numeric character.
 - need to keep in mind of java transition function of character and string.
+<<<<<<< HEAD
 - hard to deal with original String.
 
 ### check for improvement
@@ -24,6 +29,8 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 
 ## Code
 ### My solution
+=======
+>>>>>>> 943192a (naeun week12 784)
 
 ```java
 class Solution {
@@ -64,6 +71,7 @@ class Solution {
 }
 
 ```
+<<<<<<< HEAD
 
 ### let gpt improve my code
 ```java
@@ -137,3 +145,5 @@ class Solution {
     }
 }
 ```
+=======
+>>>>>>> 943192a (naeun week12 784)
