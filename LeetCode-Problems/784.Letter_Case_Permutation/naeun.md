@@ -6,6 +6,7 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 - space complexity: O(n * 2^n) - n for stack and 2^n for each step having 2 options.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 - 
 >>>>>>> 943192a (naeun week12 784)
@@ -18,6 +19,9 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 =======
 ![complexity](/lib/images/naeun/784-complexity.png)
 >>>>>>> 9fc766f (naeun week12 put absolute image path)
+=======
+![complexity](../../lib/images/naeun/784-complexity.png)
+>>>>>>> af2f579 (Revert "naeun week12 put absolute image path")
 ## Logic
 - recursively check
     - check out of index
