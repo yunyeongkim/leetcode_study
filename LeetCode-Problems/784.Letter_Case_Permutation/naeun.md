@@ -41,6 +41,9 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 =======
 - hard to deal with original String.
 
+### check for improvement
+- needed help to calculate complexity both in time and space.
+
 ## Code
 ### My solution
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
