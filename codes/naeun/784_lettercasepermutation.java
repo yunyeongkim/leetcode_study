@@ -34,7 +34,11 @@ class Solution {
         
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
 }
 >>>>>>> d06107e (naeun - week12 784)
+=======
+}
+>>>>>>> origin

@@ -2,6 +2,7 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 ## Complexity
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - time complexity: O(n* 2^n) - n for converting array to string and 2^n for each step having 2 options.
 - space complexity: O(n * 2^n) - n for stack and 2^n for each step having 2 options.
 
@@ -22,6 +23,12 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 =======
 ![complexity](../../lib/images/naeun/784-complexity.png)
 >>>>>>> af2f579 (Revert "naeun week12 put absolute image path")
+=======
+- time complexity: O(n* 2^n) - n for converting array to string and 2^n for each step having 2 options.
+- space complexity: O(n * 2^n) - n for stack and 2^n for each step having 2 options.
+
+![complexity](../../lib/images/naeun/784-complexity.png)
+>>>>>>> origin
 ## Logic
 - recursively check
     - check out of index
@@ -37,6 +44,9 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 - need to keep in mind of java transition function of character and string.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin
 - hard to deal with original String.
 
 ### check for improvement
@@ -44,6 +54,7 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 
 ## Code
 ### My solution
+<<<<<<< HEAD
 =======
 >>>>>>> 943192a (naeun week12 784)
 =======
@@ -55,6 +66,8 @@ Q: https://leetcode.com/problems/letter-case-permutation/description/
 ## Code
 ### My solution
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
+=======
+>>>>>>> origin
 
 ```java
 class Solution {
@@ -97,8 +110,11 @@ class Solution {
 ```
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
+=======
+>>>>>>> origin
 
 ### let gpt improve my code
 ```java
@@ -173,7 +189,10 @@ class Solution {
 }
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 943192a (naeun week12 784)
 =======
 >>>>>>> c6df2b7 (naeun week12 784 with additional descrpition)
+=======
+>>>>>>> origin
