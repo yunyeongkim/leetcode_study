@@ -106,10 +106,11 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 11      | 2025-05-03 | [933] [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) / [1700] [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) / [649] [Dota2 Senate](https://leetcode.com/problems/dota2-senate/)                                                |
 | 12      | 2025-05-10 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
 | 13      | 2025-05-17 | **Offline Meeting** \|\| Unsolved Problem  \|\| Retry solved Problem<br>                                                                                                                                                                                                                                                          |
+| 14      | 2025-05-22 | [70] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) / [713] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) / [238] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                                                                                                               |
 
 
 ---
 
 ### Let’s solve, learn, and improve together! 💻✨
 
-#week13
+#week14
