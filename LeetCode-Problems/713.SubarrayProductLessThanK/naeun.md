@@ -50,3 +50,9 @@ class Solution {
     }
 }
 ```
+### Review by myself
+- if change type of product long to int, time speed can be shorten. However, just in case of product range over integer boundary, I'll use long type.
+- it was a quite difficult to deal with 
+    - the case of left out of boundary.
+    - come up with the idea of which measure the length of indexes
+- I tried to use cache of all cases of products but it would take O(n^2) time complexity.
