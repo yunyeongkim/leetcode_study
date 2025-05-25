@@ -50,9 +50,31 @@ class Solution {
     }
 }
 ```
-### Review by myself
+## Review by myself
 - if change type of product long to int, time speed can be shorten. However, just in case of product range over integer boundary, I'll use long type.
 - it was a quite difficult to deal with 
     - the case of left out of boundary.
     - come up with the idea of which measure the length of indexes
 - I tried to use cache of all cases of products but it would take O(n^2) time complexity.
+### Code improved with GPT
+- time complexity is not different than previous code. However, code itself is simplified with less condition statement.
+```java
+class Solution {
+    public int numSubarrayProductLessThanK(int[] nums, int k) {
+        int product = 1, result = 0, left = 0;
+
+        for (int right = 0; right < nums.length; right++) {
+            product *= nums[right];
+
+            while (left <= right && product >= k) {
+                product /= nums[left];
+                left++;
+            }
+
+            result += right - left + 1;
+        }
+
+        return result;
+    }
+}
+```
