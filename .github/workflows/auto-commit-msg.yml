@@ -5,13 +5,17 @@ on:
     branches:
       - master
 
+concurrency:
+  group: commit-message-rewrite-${{ github.ref }}
+  cancel-in-progress: false  
+
 permissions:
   contents: write
 
 jobs:
   add_codefile_modify_msgs:
     # when you want to disable this action.
-    if: false
+    # if: false
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
