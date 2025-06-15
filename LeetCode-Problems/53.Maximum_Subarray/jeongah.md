@@ -27,8 +27,8 @@ class Solution:
 So `max_sum` should keep track of the maximum sum that we have encountered so far.
 
 <pre>
-[2  -1  4  -1  2  1  -5  4  1  3]
- 2   1
-        4   3  5  6   1
-                         4  5  8
+[2  -1  -3  4  -1  2  1  -7  4  1  3]
+ 2   1  -2 (2)
+            4   3  5  6  -1 (3)          4 (num) > 2 (cur_sum)
+                             4  1  3     4 (num) > 3 (cur_sum)
 </pre>
