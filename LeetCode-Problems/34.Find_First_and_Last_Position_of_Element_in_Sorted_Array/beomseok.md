@@ -1,6 +1,6 @@
 ### Problem
-[35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
-
+[34. Find First and Last Position of Element in Sorted Array]([https://leetcode.com/problems/search-insert-position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 ### Solution
 1. Perform two modified binary searches
 2. One that always moves the right boundary leftward upon seeing target (to find the first occurrence).
