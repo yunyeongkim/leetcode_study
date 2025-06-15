@@ -25,5 +25,5 @@ class Solution {
 - logN -> consider binary search
 - target condition: `nums[mid-1] < nums[mid] > nums[mid+1]`
 - until before left == right
-    - if(nums[mid] > nums[mid+1]) -> move right to mid
-    - else (mid[mid] <= nums[mid+1]) -> means increasing so that move left to mid
+    - if(nums[mid] > nums[mid+1]) -> means matches condition of `nums[mid] > nums[mid+1]` so that move right to mid
+    - else (mid[mid] <= nums[mid+1]) -> means matches condition of `nums[mid-1] < nums[mid]` so that move left to mid
