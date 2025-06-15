@@ -4,7 +4,7 @@
 ```java
 class Solution {
     public int findPeakElement(int[] nums) {
-        // left < mid > right
+        // mid-1 < mid > mid+1
         int left = 0;
         int right = nums.length-1;
         while(left < right){
