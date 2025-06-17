@@ -110,10 +110,11 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 15      | 2025-06-01 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) / [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) / [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                    |
 | 16      | 2025-06-08 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) / [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) / [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)          |
 | 17      | 2025-06-15 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
+| <br>18  | 2025-06-22 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) / [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) / [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                               |
 
 
 ---
 
 ### Let’s solve, learn, and improve together! 💻✨
 
-#week17
+#week18
