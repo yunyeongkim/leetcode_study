@@ -57,7 +57,7 @@ class Solution {
 ```
 
 # Review with GPT
-![improved complexity](../../lib/images/naeun/973-complexity_improved.png.png)
+![improved complexity](../../lib/images/naeun/973-complexity_improved.png)
 - Time: O(NlogK)
 - Space: O(N)
 
