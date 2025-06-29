@@ -3,8 +3,7 @@
 - First, tried to solve it with left and right index -> failed.
 - Then, saw hints
 
-## Code
-- Idea
+## Idea
 1. iterate once (index could be right index) and then store pre-sum in hashmap(key: sum, value: index). In this case, 0 should be -1 and 1 should be 1.
 - If pre-sum is zero -> it means match condition. Therefore, update answer. This means that [0, now] matches condition. 
 - value of hashmap would be the highest index.
@@ -12,6 +11,7 @@
 - calculate pre-sum again.
 - The value of hashmap pre-sum means that [now, rightIndex] matches condition.
 
+## Code
 ```java
 class Solution {
     // ex: [-1,0,1,2,3,4,3,2,1]
