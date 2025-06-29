@@ -14,7 +14,7 @@
 ## Code
 ```java
 class Solution {
-    // ex: [-1,0,1,2,3,4,3,2,1]
+    // ex: [0,1,1,1,1,1,0,0,0]->[-1,0,1,2,3,4,3,2,1]
     public int findMaxLength(int[] nums) {
         // 0 -> -1
         // 1 -> 1
