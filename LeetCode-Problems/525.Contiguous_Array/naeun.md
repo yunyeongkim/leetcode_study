@@ -81,6 +81,7 @@ class Solution {
 
 # With GPT
 ## Better expression
+- change my expression
 1. First, iterate through the array while computing the prefix sum.  
    - Treat 0 as -1 and 1 as +1.  
    - Use a hashmap to store the *rightmost index* for each prefix sum encountered (key: sum, value: index).  
@@ -90,3 +91,5 @@ class Solution {
    - Recompute the prefix sum from the beginning.  
    - For each prefix sum, if it exists in the map, the value (i.e., the rightmost index where the same prefix sum occurred) indicates a subarray `[left, right]` with equal number of 0s and 1s.  
    - Update the answer with the length of this subarray.
+
+- "The value for key X in the map" (ex: map[X] =v)
