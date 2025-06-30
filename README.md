@@ -112,7 +112,8 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 16      | 2025-06-08 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) / [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) / [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)          |
 | 17      | 2025-06-15 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
 | <br>18  | 2025-06-22 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) / [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) / [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                               |
-| 19      | 2025.06.29 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)/ [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) /  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                             |
+| 19      | 2025-06-29 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)/ [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) /  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                             |
+| 20      | 2025-07-06 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) / [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                                                                                                                                                                                                                                                 |
 
 
 
@@ -120,4 +121,4 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 
 ### Let’s solve, learn, and improve together! 💻✨
 
-#week19
+#week20
