@@ -42,9 +42,9 @@ However, this case fails:
 isConnected = [[1,0,0,1],[0,1,1,0],[0,1,1,1],[1,0,1,1]]
 ![case](../../lib/images/hyorin/547-case.png)
 
-Expected roots = [0,0,0,0]
+Expected roots = [1,1,1,1]
 
-Actual roots = [0,1,0,0]
+Actual roots = [0,1,1,1]
 
 because, the root is not fully updated.
 
