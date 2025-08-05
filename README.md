@@ -25,6 +25,7 @@ Welcome to the **LeetCode Study Group**, a collaborative space to enhance algori
 | BeomSeok Kim | Participant | https://github.com/xfrnk2    |
 | BeomJin Cho  | Participant | https://github.com/ccf05017  |
 | Eunjung Kim  | Participant | https://github.com/Eunjung17 |
+| Hyorin Kim   | Participant | hyorin97@naver.com           |
 
 > If you'd like to join the study, please contact the organizer at **yunyeong93@gmail.com**. 🎉
 
@@ -113,7 +114,8 @@ For each session, select **1-2 algorithm problems** and prepare the following:
 | 17      | 2025-06-15 | Unsolved Problem  \|\| Retry solved Problem                                                                                                                                                                                                                                                                                       |
 | <br>18  | 2025-06-22 | [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) / [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) / [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                               |
 | 19      | 2025-06-29 | [1524. Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)/ [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) /  [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)                                             |
-| 20      | 2025-07-06 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) / [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                                                                                                                                                                                                                                                 |
+| 20      | 2025-07-06 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) / [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                                                                                                                   |
+| 21      | 2025-08-09 | [802. Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) / [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                                                                                                                                                                                                                                     |
 
 
 
